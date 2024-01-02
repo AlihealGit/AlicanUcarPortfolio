@@ -16,14 +16,17 @@ Board:
 
 </p>
 
-The Board includes SSR Relay Trigger Mechanism, Microphone Module, 74HC595 Buffer IC for Leds, Buzzer, 555 Timer and J-K Flip Flop for Delay Button Circuit (hold 3 seconds to activate and deactive to power connection), and BNO055 9-DOF Orientation IMU.
+The Board includes ESP-32 MCU, SSR Relay Trigger Mechanism, Microphone Module, 74HC595 Buffer IC for Leds, Buzzer, 555 Timer and J-K Flip Flop for Delay Button Circuit (hold 3 seconds to activate and deactive to power connection), and BNO055 9-DOF Orientation IMU.
 
 # Rocket
-<a href="https://ibb.co/R7ZcR9y"><img src="https://i.ibb.co/0Q8rHct/rocketitself.jpg" alt="rocketitself" border="0"></a>
 
-Mission of the card is balancing the rocket while landing with an active control system that controls the selenoid valves. I also created the control algorithm of the rocket. The mission of the card is helded succesfully, the rocket kept its balance at euler angles. However, as the vertical thrust isn't enough to slow down the rocket, it crashed into ground fast, then it bounced off the ground and fell. Here is the releasing video of the rocket:
+The BOX is designed with a purpose of establishing a communication web in the earthquake. As, in the earthquakes, telecommunication webs go down, the BOX plans to create a bluetooth mesh with mobile application, and solve the communication problem. The users' mobilephones will be slaves and The BOX will be the master point. T
 
-<img src="https://github.com/AlihealGit/AlicanUcarPortfolio/blob/main/rocketvideo.gif">
+I worked with Alchemy Smart Technologies. They wanted me to make a The BOX prototype to use in presantations. Also, I made a similar device to the BOX and gave it to Prof. Dr. Erdin BOZKURT to catch Earthquake accelaration patterns and measure Bridge Loads from vibrations.
+
+Here are the some videos:
+
+<img src="https://github.com/AlihealGit/AlicanUcarPortfolio/blob/main/AlchemyTheBox/thebox1.gif">
 
 # Ground Station
 
