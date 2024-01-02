@@ -1,0 +1,12 @@
+../Core/Src/ms5611.c:20:9:I2C_read	40	static,ignoring_inline_asm
+../Core/Src/ms5611.c:28:9:I2C_write	32	static
+../Core/Src/ms5611.c:36:6:ms5611_set_i2c	16	static
+../Core/Src/ms5611.c:47:9:ms5611_read_i2c	24	static
+../Core/Src/ms5611.c:58:9:ms5611_write_i2c	24	static
+../Core/Src/ms5611.c:65:6:ms5611_osr_select	16	static
+../Core/Src/ms5611.c:72:6:ms5611_init	16	static
+../Core/Src/ms5611.c:86:6:ms5611_update_pressure	16	static
+../Core/Src/ms5611.c:100:6:ms5611_update_temperature	16	static
+../Core/Src/ms5611.c:113:6:ms5611_update	8	static
+../Core/Src/ms5611.c:122:8:ms5611_get_temperature	40	static
+../Core/Src/ms5611.c:140:8:ms5611_get_pressure	88	static

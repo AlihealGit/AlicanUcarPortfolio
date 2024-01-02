@@ -1,0 +1,3 @@
+../Core/Src/tof.c:14:6:TOF_UART_Error_Callback	32	static
+../Core/Src/tof.c:26:6:TOF_UART_RxComplete_Callback	16	static
+../Core/Src/tof.c:50:6:TOF_UART_Init	16	static
