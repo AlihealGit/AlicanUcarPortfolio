@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\alica\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\cores\\rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\alica\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\2.7.0\\variants\\rpipico"
+  },
+  {
+    "Sourcefile": "C:\\Users\\alica\\Documents\\230104-162745-pico\\build\\sketch\\cizgi_izleyen.ino.cpp",
+    "Include": "RP2040_PWM.h",
+    "Includepath": "C:\\Users\\alica\\OneDrive\\Documents\\Arduino\\libraries\\RP2040_PWM-main\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\alica\\Documents\\230104-162745-pico\\build\\sketch\\cizgi_izleyen.ino.cpp",
+    "Include": "QTRSensors.h",
+    "Includepath": "C:\\Users\\alica\\OneDrive\\Documents\\Arduino\\libraries\\QTRSensors"
+  },
+  {
+    "Sourcefile": "C:\\Users\\alica\\Documents\\230104-162745-pico\\build\\sketch\\cizgi_izleyen.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\alica\\OneDrive\\Documents\\Arduino\\libraries\\QTRSensors\\QTRSensors.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
