@@ -1,6 +1,17 @@
 # Linefollower
 
+<p align="left">
 
+Schematic: <br>
+<img src="https://github.com/AlihealGit/AlicanUcarPortfolio/blob/main/LineFollower/schematic.png">
+
+Board:
+
+<img src="https://github.com/AlihealGit/AlicanUcarPortfolio/blob/main/LineFollower/linefoloowerhardware.png">
+<img src="https://github.com/AlihealGit/AlicanUcarPortfolio/blob/main/LineFollower/finalboard.jpg">
+</p>
+
+The board includes ESP32-WROOM-32U, 2 TB6612FNG H-Bridge motor driver, BNO-055 9-DOF IMU sensor, digital multiplexer for QTR-16RC and 3.3V regulator.
 
 # How i started to electronics
 
