@@ -1,0 +1,73 @@
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.exe.config
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.exe
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.pdb
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\AssimpNet.dll
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.dll
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.GLControl.dll
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\AssimpNet.xml
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.pdb
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.xml
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.Form1.resources
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.Properties.Resources.resources
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.GenerateResource.cache
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.CopyComplete
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.exe
+C:\Users\alica\source\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.pdb
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.exe.config
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.exe
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.pdb
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\AssimpNet.dll
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.dll
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.GLControl.dll
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\AssimpNet.xml
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.pdb
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.xml
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.Form1.resources
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.Properties.Resources.resources
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.GenerateResource.cache
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.CopyComplete
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.exe
+C:\Users\alica\Desktop\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.pdb
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.Form1.resources
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.Properties.Resources.resources
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.GenerateResource.cache
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.exe
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.pdb
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.exe.config
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.exe
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\GroundStationAdjusted.pdb
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\AssimpNet.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.GLControl.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\AssimpNet.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.pdb
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\obj\Debug\GroundStationAdjusted.csproj.CopyComplete
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\CsvHelper.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Buffers.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Memory.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\CsvHelper.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Buffers.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Memory.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alica\Desktop\New folder (3)\repos\GroundStationAdjusted\GroundStationAdjusted\bin\Debug\System.Threading.Tasks.Extensions.xml
