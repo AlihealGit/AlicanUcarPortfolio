@@ -11,7 +11,7 @@ Board:
 <img src="https://github.com/AlihealGit/AlicanUcarPortfolio/blob/main/LineFollower/finalboard.jpg">
 </p>
 
-The board includes ESP32-WROOM-32U, 2 TB6612FNG H-Bridge motor driver, BNO-055 9-DOF IMU sensor, digital multiplexer for QTR-16RC and 3.3V regulator.
+The board includes ESP32-WROOM-32U, 2 TB6612FNG H-Bridge motor driver, BNO-055 9-DOF IMU sensor, digital multiplexer for QTR-16RC and 3.3V regulator. Components will be assembled in February of 2024.
 
 # How i started to electronics
 
